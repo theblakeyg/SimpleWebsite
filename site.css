@@ -1,0 +1,45 @@
+/* Navigation Menu */
+
+#navList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.navItem {
+  float: left;
+}
+
+.navItem a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.navItem a:hover {
+  background-color: #111111;
+}
+
+/* Featured Wine List */
+
+/* #featuredList {
+  list-style-type: none;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.featuredItem {
+  float: left;
+  display: block;
+  padding-left: 20px;
+  text-decoration: none;
+  width: 25%;
+}
+
+.featuredItem img {
+  width: 25%;
+} */
