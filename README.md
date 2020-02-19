@@ -10,6 +10,6 @@ This is a simple website illustrating basic use of HTML, CSS and JavaScript
 - Images
 - Links (Internal/External)
 
-#CSS Examples
+# CSS Examples
 - Style by Class
 - Style by Id

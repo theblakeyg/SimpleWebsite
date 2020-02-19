@@ -1,5 +1,4 @@
 /* Navigation Menu */
-
 #navList {
   list-style-type: none;
   margin: 0;
@@ -25,21 +24,31 @@
 }
 
 /* Featured Wine List */
-
-/* #featuredList {
-  list-style-type: none;
-  padding-left: 15%;
-  padding-right: 15%;
+#featuredList {
+  margin: 0 auto;
 }
 
 .featuredItem {
-  float: left;
-  display: block;
-  padding-left: 20px;
-  text-decoration: none;
-  width: 25%;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  border: 10px solid slategrey;
+  border-radius: 10px;
 }
 
-.featuredItem img {
-  width: 25%;
-} */
+img {
+  width: 350px;
+}
+
+/* Heading Styles */
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  font-family: Verdana;
+}
+
+h5 {
+  font-family: sans-serif;
+}
